@@ -1,0 +1,13 @@
+30ed1fb26524dad0311e5ff278ca6116fc77f271 *./FLIR_GenTL_v140.cti
+39560296370ebd820059dc63f1f6f35da54f931c *./GCBase_MD_VC140_v3_0.dll
+3bea5e669e67366e18d8e63ccd88f4a7d8d1e14b *./GenApi_MD_VC140_v3_0.dll
+f8835733fac49a198e77aace145cd71f33f62720 *./libiomp5md.dll
+490b646849477d025037268c0d32fdb2151c39b6 *./log4cpp.gentl.property
+f776df873b45eaa6d20f503222d47b10378a28bd *./log4cpp.spinnaker.property
+3e64276a1508335c77ad43eac03875c3580f6fd4 *./log4cpp_MD_VC140_v3_0.dll
+9442877445e4fb491279dd1c119bfd9cfa8923dd *./Log_MD_VC140_v3_0.dll
+a8372165ff6bac756dc2d02c6932f369c234f0a2 *./MathParser_MD_VC140_v3_0.dll
+9e9f4e438023e7f2d835614c12e74fc5ae25e83f *./NodeMapData_MD_VC140_v3_0.dll
+146d5faafe7896396bb2eca9aca34b2c45a6b71c *./push.sh
+c5c52935aaf61c4bdf0834763cc11603972f03e5 *./Spinnaker_v140.dll
+2f9998a045df5201c0bd3920b8b57818968337ae *./XMLParser_MD_VC140_v3_0.dll
